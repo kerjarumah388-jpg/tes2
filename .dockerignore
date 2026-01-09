@@ -1,0 +1,20 @@
+# Docker ignore file for Next.js
+**/.git
+**/.gitignore
+**/.next
+**/node_modules
+**/dist
+**/build
+**/.vercel
+**/.DS_Store
+**/*.log
+dev.log
+server.log
+.env*
+!.env.example
+**/db/*.db
+**/db/*.db-journal
+**/.claude
+**/.z-ai-config
+**/test
+**/prompt
